@@ -54,6 +54,7 @@ Ans: async and await make promises easier to write.And 'async' makes a function 
     // use await;
 
     function awaitFunc(){
+
         try{
             await firstFunction();
 
@@ -65,4 +66,5 @@ Ans: async and await make promises easier to write.And 'async' makes a function 
         catch( rejectValue ){
             console.log( rejectValue );
         }
+        
     }
