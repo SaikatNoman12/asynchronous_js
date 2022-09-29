@@ -69,5 +69,5 @@ Ans: async and await make promises easier to write.And 'async' makes a function 
 
     }
 
-
+    // call awaitFunc;
     awaitFunc();
