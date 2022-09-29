@@ -95,6 +95,15 @@ function getCertified() {
 }
 
 
+// get certificate short version. this is useable.
+function getCertified2() {
+    console.log('Your certificate is on progress.');
+
+    const promise = Promise.resolve('Yahooo! Your are certified programmer.');
+
+    return promise
+}
+
 enroll()
     .then(progress)
     .then(getCertified)
