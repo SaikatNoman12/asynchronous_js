@@ -20,6 +20,7 @@ const promise = new Promise(function (resolve, reject) {
 });
 
 
+
 // call promise
 promise
     .then(function (value) {
