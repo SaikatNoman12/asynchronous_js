@@ -17,7 +17,7 @@ const promise = new Promise(function (resolve, reject) {
             reject('Your payment process is failed.');
         }
     }, 4000);
-// });
+});
 
 
 // call promise
@@ -103,7 +103,3 @@ enroll()
     .catch(function (err) {
         console.log(err);
     });
-
-
-
-
