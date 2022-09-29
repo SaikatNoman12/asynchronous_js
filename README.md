@@ -4,6 +4,8 @@
 
 ### 2. JavaScript Asynchronous
 
-### 3. JavaScript Promises
+### 3. JavaScript callback - pattern 
 
-### 4. JavaScript Async / Await
+### 4. JavaScript Promises
+
+### 5. JavaScript Async / Await
