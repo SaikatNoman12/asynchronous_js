@@ -43,7 +43,6 @@ In this case one function does not depend on another function.
     }
 
     // function invocation
-
     addition(10, 10, display);
 
     output: 20
